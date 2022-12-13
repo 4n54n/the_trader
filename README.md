@@ -24,4 +24,17 @@ main features:
 6. and many more.
 
 
+
+
+
+
 ![alt text](https://github.com/penguinlips/the_trader/blob/main/the_trader.jpg?raw=true)
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/73578269/207379652-6d446ed0-e1a8-4f9b-8af0-9ab90bf2cc6f.mp4
+
