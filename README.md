@@ -24,4 +24,4 @@ main features:
 6. and many more.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/penguinlips/the_trader/blob/main/the_trader.jpg?raw=true)
