@@ -1,10 +1,17 @@
+
+
 # the_trader
+<br><br>
 
 This python tkinter software will help you to do intraday trades effectively.
 
 All the features in this software is come from my mind for solving all the limited features in normal trading and make intraday trading effective.
 
-main features:
+<br><br>
+
+# main features:
+
+<br><br>
 
 1. switch to different trades remotedly just by hovering on the "switch" button near respective symbol. (so you can see all the details and graph in another screen very easily)
 
