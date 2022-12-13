@@ -1,6 +1,6 @@
 # the_trader
 
-This python software will help you to do intraday trades effectively.
+This python tkinter software will help you to do intraday trades effectively.
 
 All the features in this software is come from my mind for solving all the limited features in normal trading and make intraday trading effective.
 
@@ -22,3 +22,6 @@ main features:
 
 
 6. and many more.
+
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
